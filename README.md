@@ -1,4 +1,4 @@
-# CoalCarProgrammingTest
+# Coal Car Programming Test
 This is a tool to design simple levels in VR using primitive volumes - cubes, spheres, and cylinders. You are able to move around the plane, either with continuous movement or teleportation, spawning any of these objects wherever you like. You can use the Movement, Rotation and Scalar tools to adjust the objects, or the Delete button to remove an object from the scene. You are also able to name and save levels to a file, and load previously saved levels.
 
 **CONTROLS:**
