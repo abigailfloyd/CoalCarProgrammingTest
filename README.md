@@ -17,8 +17,8 @@ This is a tool to design simple levels in VR using primitive volumes - cubes, sp
 - _Save_ allows you to save a level   
     -To name level, click on text input and use computer keyboard to name, then click on _Save Level_
 - _Load_ allows you load a previously saved level
-       - You can choose any level from the dropdown menu of saved levels, then choose _Load Level_ to load it into the scene
-           - This will replace the current contents of the level, and will not save the current level (unless already saved)
+             - You can choose any level from the dropdown menu of saved levels, then choose _Load Level_ to load it into the scene
+                    - This will replace the current contents of the level, and will not save the current level (unless already saved)
 
 **Object Manipulation**
 - After selecting _Move_ from the menu, you can move objects by pointing at them and grabbing using the side/squeeze buttons on the  controller, then moving the controller while continuing to hold down that button/buttons
